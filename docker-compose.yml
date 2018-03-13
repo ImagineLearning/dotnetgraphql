@@ -1,0 +1,8 @@
+version: '3'
+services:
+  graphql:
+    build: .
+    environment:
+     ASPNETCORE_URLS: "http://0.0.0.0:5000"
+    ports:
+      - '5000:5000'

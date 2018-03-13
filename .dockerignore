@@ -1,0 +1,17 @@
+bin/
+obj/
+.vscode/
+StarWars.Api/bin/
+StarWars.Core/bin/
+StarWars.Data/bin/
+StarWars.Api/obj/
+StarWars.Core/obj/
+StarWars.Data/obj/
+up.sh
+unit-tests.bat
+README.md
+LICENSE
+integration-tests.bat
+.gitignore
+StarWars.sln
+docker-compose.yml
