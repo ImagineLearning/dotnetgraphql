@@ -1,3 +1,3 @@
 docker-compose build
-docker tag starwars_graphql:latest ilprovo/dotnetgraphql:latest
+docker tag dotnetgraphql_graphql:latest ilprovo/dotnetgraphql:latest
 docker push ilprovo/dotnetgraphql:latest
